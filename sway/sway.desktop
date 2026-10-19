@@ -1,5 +1,5 @@
 [Desktop Entry]
-Name=Sway
+Name=openSUSEway-qt
 Comment=An i3-compatible Wayland compositor
 Exec=sway-run.sh
 Type=Application
